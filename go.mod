@@ -1,4 +1,4 @@
-module go-blocknative
+module github.com/shrimpyuk/go-blocknative
 
 go 1.18
 
