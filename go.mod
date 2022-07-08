@@ -1,5 +1,6 @@
 module github.com/shrimpyuk/go-blocknative
 
+
 go 1.18
 
 require (
